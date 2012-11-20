@@ -1,7 +1,5 @@
 <?php
 namespace suitcase {
-  
-  
   class Base {
     public static $import_dir = __DIR__;
     private static $imported_packages = array();
