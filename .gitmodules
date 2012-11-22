@@ -1,24 +1,24 @@
-[submodule "vendors/http"]
-	path = vendors/http
+[submodule "vendor/http"]
+	path = vendor/http
 	url = https://github.com/tmonzel/sc.http.git
-[submodule "vendors/http-router"]
-	path = vendors/http-router
+[submodule "vendor/http-router"]
+	path = vendor/http-router
 	url = https://github.com/tmonzel/sc.http-router.git
-[submodule "vendors/http-action"]
-	path = vendors/http-action
+[submodule "vendor/http-action"]
+	path = vendor/http-action
 	url = https://github.com/tmonzel/sc.http-action.git
-[submodule "vendors/inflector"]
-	path = vendors/inflector
+[submodule "vendor/inflector"]
+	path = vendor/inflector
 	url = https://github.com/tmonzel/sc.inflector.git
-[submodule "vendors/test"]
-	path = vendors/test
+[submodule "vendor/test"]
+	path = vendor/test
 	url = https://github.com/tmonzel/sc.test.git
-[submodule "vendors/display"]
-	path = vendors/display
+[submodule "vendor/display"]
+	path = vendor/display
 	url = https://github.com/tmonzel/sc.display.git
-[submodule "vendors/loader"]
-	path = vendors/loader
+[submodule "vendor/loader"]
+	path = vendor/loader
 	url = https://github.com/tmonzel/sc.loader.git
-[submodule "vendors/http-application"]
-	path = vendors/http-application
+[submodule "vendor/http-application"]
+	path = vendor/http-application
 	url = https://github.com/tmonzel/sc.http-application.git
