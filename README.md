@@ -1,4 +1,4 @@
-sc.application
+bs.Application
 ==============
 
-Suitcase Application Skeleton for PHP 5.3+
+Battlesuit Application Skeleton for PHP 5.3+
