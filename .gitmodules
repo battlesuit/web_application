@@ -1,24 +1,3 @@
-[submodule "vendor/http"]
-	path = vendor/http
-	url = https://github.com/battlesuit/http.git
-[submodule "vendor/http-router"]
-	path = vendor/http-router
-	url = https://github.com/battlesuit/http-router.git
-[submodule "vendor/http-action"]
-	path = vendor/http-action
-	url = https://github.com/battlesuit/http-action.git
-[submodule "vendor/inflector"]
-	path = vendor/inflector
-	url = https://github.com/battlesuit/inflector.git
-[submodule "vendor/test"]
-	path = vendor/test
-	url = https://github.com/battlesuit/test.git
-[submodule "vendor/display"]
-	path = vendor/display
-	url = https://github.com/battlesuit/display.git
-[submodule "vendor/loader"]
-	path = vendor/loader
-	url = https://github.com/battlesuit/loader.git
-[submodule "vendor/http-application"]
-	path = vendor/http-application
-	url = https://github.com/battlesuit/http-application.git
+[submodule "vendor/bs"]
+	path = vendor/bs
+	url = https://github.com/battlesuit/shell.git
